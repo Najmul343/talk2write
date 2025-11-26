@@ -1,0 +1,7 @@
+{
+  "name": "Urdu Voice AI",
+  "description": "A voice-to-text application that uses Gemini to transcribe and translate spoken audio into Urdu script.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
